@@ -42,7 +42,7 @@ class MotorCardWidget extends StatelessWidget {
              // SizedBox(height: 8,),
               ListTile(
                 contentPadding: const EdgeInsets.symmetric(horizontal: 8, vertical: 0),
-                minVerticalPadding: 16,
+                minVerticalPadding: 15,
                 title: Text(
                   model.model,
                   style: TextStyle(
