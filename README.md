@@ -1,8 +1,12 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E!" alt="Typing SVG" /></a>
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E!" alt="Typing SVG" /></a>
+
+
+<!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> -->
+
+
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E!" alt="Typing SVG" /></a>
+
 
 # MotoRotam v2
 ### MotoRotam Mobil App ikinci versiyon;
