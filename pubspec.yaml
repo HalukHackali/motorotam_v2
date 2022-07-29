@@ -40,9 +40,20 @@ flutter:
   uses-material-design: true
 
   assets:
+   - assets/images/
    - assets/images/app_logo/
    - assets/images/icons_img/
    - assets/images/marka_model_img/
+   - assets/images/marka_model_img/ktm/250_adventure/
+   - assets/images/marka_model_img/ktm/390_adventure/
+   - assets/images/marka_model_img/ktm/890_adventure/
+   - assets/images/marka_model_img/ktm/890_adventure_r/
+   - assets/images/marka_model_img/ktm/duke_125/
+   - assets/images/marka_model_img/ktm/duke_250/
+   - assets/images/marka_model_img/ktm/duke_390/
+   - assets/images/marka_model_img/ktm/duke_890/
+   - assets/images/marka_model_img/ktm/superduke_1290_adventure_r/
+   - assets/images/marka_model_img/ktm/superduke_1290_adventure_s/
    - assets/images/markalar_logo/
 
 
