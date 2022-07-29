@@ -5,6 +5,7 @@ import 'package:motorotam_v2/components/detail_widgets/motor_detail_widget.dart'
 import 'package:motorotam_v2/components/detail_widgets/properties_motor_card.dart';
 import 'package:motorotam_v2/components/motor_turleri_widget.dart';
 import 'package:motorotam_v2/model/motor_model.dart';
+import 'package:motorotam_v2/riverpod/motor_riverpod.dart';
 import 'package:motorotam_v2/riverpod/riverpod_managment.dart';
 import 'package:responsive_framework/responsive_framework.dart';
 
@@ -23,7 +24,7 @@ class Detay extends ConsumerWidget {
     double screenWidth = MediaQuery.of(context).size.width;
     return Scaffold(
       backgroundColor: const Color(0xFFEEEDEF),
-      appBar:  appbarBuild(),
+      appBar:  appbarBuild(model),
       body: ListView(
         children: [
           ResponsiveRowColumn(
@@ -81,8 +82,8 @@ class Detay extends ConsumerWidget {
                 rowFlex: 1,
                 child: MotorDetailWidget(
                   motorResim: model.resim,
-                  motorResimRight:model.resim,
-                  motorResimLeft: model.resim,)
+                  motorResimRight:model.resimRight,
+                  motorResimLeft: model.resimLeft,)
               ),
 
 
@@ -118,7 +119,7 @@ class Detay extends ConsumerWidget {
                     ],
                   ),
                 ),
-                const Text("4260 Reviews ",
+                const Text("4260 Görüldü ",
                     style: TextStyle(color: Colors.white, fontSize: 14)),
               ],
             ),
@@ -328,9 +329,9 @@ class Detay extends ConsumerWidget {
 
 }
 
-CupertinoNavigationBar appbarBuild() {
-  return const CupertinoNavigationBar(
-    middle: Text('KTM Duke 250'),
+CupertinoNavigationBar appbarBuild(MotorModel model) {
+  return  CupertinoNavigationBar(
+    middle: Text(model.model),
 
   );
 }
