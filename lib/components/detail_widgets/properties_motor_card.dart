@@ -70,7 +70,7 @@ class PropertiesMotorCard extends StatelessWidget {
                           ),
                           const Center(
                             child: Text(
-                              'Engine',
+                              'Motor',
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                   color: Colors.white,
@@ -128,7 +128,7 @@ class PropertiesMotorCard extends StatelessWidget {
                           ),
                           const Center(
                             child: Text(
-                              'Power',
+                              'Güç',
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                   color: Colors.white,
@@ -186,7 +186,7 @@ class PropertiesMotorCard extends StatelessWidget {
                           ),
                           const Center(
                             child: Text(
-                              'Speed',
+                              'Hız',
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                   color: Colors.white,
@@ -244,7 +244,7 @@ class PropertiesMotorCard extends StatelessWidget {
                           ),
                           const Center(
                             child: Text(
-                              'Brake',
+                              'Fren',
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                   color: Colors.white,
