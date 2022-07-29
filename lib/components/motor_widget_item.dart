@@ -1,6 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
+import 'package:grock/grock.dart';
 import 'package:motorotam_v2/model/motor_model.dart';
 import 'package:motorotam_v2/view/detaySayfa/detay_sayfa.dart';
 import 'package:responsive_framework/responsive_framework.dart';
@@ -33,7 +34,7 @@ class MotorCardWidget extends StatelessWidget {
           child: Column(
             children: [
               ClipRRect(
-                borderRadius: BorderRadius.circular(20),
+                borderRadius: const BorderRadius.only(topLeft: Radius.circular(20), topRight: Radius.circular(20),),
                 child: Image.asset(
 
                     model.resim
