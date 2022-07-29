@@ -61,3 +61,10 @@ www.motorotam.com
 | <img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/android_studio_button_icon_151887.png" width="120"/> |<img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/dart_button_icon_151933.png" width="75"  /> |<img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/flutter_button_icon_151957.png" width="80"/>|<img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/docker_button_icon_151885.png" width="80"/>|<img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/jetbrains_webstorm_button_icon_151873.png" width="100"/>|
 |---|---|---|---|---|
 |<img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/digitalocean_button_icon_151900.png" width="100"/>|<img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/python_button_icon_151925.png" width="80"/>|<img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/bootstrap_button_icon_151958.png" width="80"/>|<img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/raspberrypi_button_icon_151859.png" width="90"/>|<img src="https://github.com/HalukHackali/dindefterim_mobil_app/blob/master/assets/badges/jetbrains_pycharm_button_icon_151876.png" width="100"/> |
+
+
+
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HalukHackali&theme=tokyonight&hide_border=true&locale=tr)](https://git.io/streak-stats)
