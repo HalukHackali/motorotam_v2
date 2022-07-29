@@ -123,7 +123,7 @@ class Home extends ConsumerWidget {
                 gridDelegate:  const ResponsiveGridDelegate(
 
                   maxCrossAxisExtent: 238,
-                  childAspectRatio: 0.9,
+                  childAspectRatio: 0.8,
                   crossAxisSpacing: 5,
                   mainAxisSpacing: 5,
                 ),
