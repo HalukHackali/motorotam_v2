@@ -5,7 +5,6 @@ import 'package:motorotam_v2/components/detail_widgets/motor_detail_widget.dart'
 import 'package:motorotam_v2/components/detail_widgets/properties_motor_card.dart';
 import 'package:motorotam_v2/components/motor_turleri_widget.dart';
 import 'package:motorotam_v2/model/motor_model.dart';
-import 'package:motorotam_v2/riverpod/motor_riverpod.dart';
 import 'package:motorotam_v2/riverpod/riverpod_managment.dart';
 import 'package:responsive_framework/responsive_framework.dart';
 

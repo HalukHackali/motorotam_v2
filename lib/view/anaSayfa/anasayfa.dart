@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:grock/grock.dart';
-import 'package:line_icons/line_icon.dart';
 import 'package:motorotam_v2/components/banner_widget.dart';
 import 'package:motorotam_v2/components/markalar_widget_item.dart';
 import 'package:motorotam_v2/components/motor_turleri_widget.dart';
@@ -76,7 +74,7 @@ class Home extends ConsumerWidget {
             ],
           ),
         Padding(
-          padding: const EdgeInsets.only(left: 8.0, right: 8.0),
+          padding: const EdgeInsets.only(left: 5.0, right: 0.0),
           child: SizedBox(
             width: screenWidth,
             height: 50,
