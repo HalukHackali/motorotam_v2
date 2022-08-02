@@ -24,12 +24,20 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       title: 'MotorRotam v2',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home:  const BaseScaffold(),
+      theme: ThemeData.from(
+          colorScheme: const ColorScheme(
+              brightness: Brightness.light,
+              primary: Colors.black45,
+              onPrimary: Colors.black45,
+              secondary: Colors.black45,
+              onSecondary: Colors.black45,
+              error: Colors.redAccent,
+              onError: Colors.red,
+              background: Colors.white,
+              onBackground: Colors.black45,
+              surface: Colors.black45,
+              onSurface: Colors.black45)),
+      home: const BaseScaffold(),
     );
   }
 }
-
-

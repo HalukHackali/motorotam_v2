@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:motorotam_v2/view/anaSayfa/anasayfa.dart';
 import 'package:motorotam_v2/view/favorite/favorite_sayfa.dart';
-import 'package:motorotam_v2/view/markalarSayfa/markalar_sayfa.dart';
 import 'package:motorotam_v2/view/settings/settings.dart';
 
 class BottomNavBarRiverpod extends ChangeNotifier {
@@ -12,7 +11,7 @@ class BottomNavBarRiverpod extends ChangeNotifier {
       label: "Anasayfa",
     ),
     BottomNavigationBarItem(
-      icon: Icon(CupertinoIcons.heart),
+      icon: Icon(CupertinoIcons.heart_fill),
       label: "Favoriler",
     ),
     BottomNavigationBarItem(
