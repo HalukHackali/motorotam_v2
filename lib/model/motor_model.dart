@@ -1,6 +1,7 @@
 
 class MotorModel {
   String marka;
+  String tur;
   String model;
   bool isFavorite;
   String yil;
@@ -36,6 +37,7 @@ class MotorModel {
 
   MotorModel({
     required this.marka,
+    required this.tur,
     required this.isFavorite,
     required this.resim,
     required this.model,
